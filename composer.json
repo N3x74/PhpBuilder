@@ -8,6 +8,11 @@
             "N3x74\\": "src/"
         }
     },
-    "minimum-stability": "stable",
-    "require": {}
+    "authors": [
+        {
+            "name": "N3x74",
+            "email": "4.ho3ein@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
 }
