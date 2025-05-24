@@ -1,0 +1,13 @@
+{
+    "name": "n3x74/php-builder",
+    "description": "Generate PHP code effortlessly from URLs, data, and more.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "N3x74\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
